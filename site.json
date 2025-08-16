@@ -1,0 +1,28 @@
+{
+  "brand_name": "Violet Vending",
+  "email": "info@violetvending.com",
+  "phone": "202-555-0182",
+  "hero_title": "Modern Vending, Done Right",
+  "hero_paragraph": "We bring fresh snacks, drinks, and self-care products to your workplace or apartment. Fully serviced, cashless, and customized for your needs.",
+  "kpis": [
+    {"value": "24/7", "label": "Support"},
+    {"value": "50+", "label": "Product Options"},
+    {"value": "99.9%", "label": "Uptime"},
+    {"value": "100%", "label": "Cashless"}
+  ],
+  "services": [
+    {"title": "Snack & Drink Machines", "text": "Healthy and popular selections with real-time restock alerts."},
+    {"title": "Self-Care Products", "text": "Convenient access to personal items, always stocked."},
+    {"title": "Custom Mix", "text": "We tailor your machine to your location’s preferences."}
+  ],
+  "faq": [
+    {"q": "What types of products can I stock?", "a": "Everything from snacks and drinks to self-care and specialty items."},
+    {"q": "How soon can we get a machine?", "a": "Installations usually take 2–3 weeks depending on location."},
+    {"q": "What does it cost?", "a": "Placement is free. We handle service and upkeep; you just enjoy the convenience."}
+  ],
+  "service_areas": [
+    "Washington, DC",
+    "Maryland",
+    "Northern Virginia"
+  ]
+}
